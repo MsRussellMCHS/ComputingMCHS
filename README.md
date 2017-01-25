@@ -1,1 +1,1 @@
-# ComputingMCHS
+# ComputingMCHS :sparkles:
